@@ -1,0 +1,14 @@
+#
+# these things will be ignored by git
+#
+
+*.[ao]	#object and archive files
+*~	# temporary files
+
+.Xauthority
+.bash_history
+.ssh/
+.vim/
+Xserver
+.viminfo
+
