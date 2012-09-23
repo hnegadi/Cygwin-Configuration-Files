@@ -114,9 +114,12 @@
 # alias vdir='ls --color=auto --format=long'
 # alias ll='ls -l'                              # long list
 # alias la='ls -A'                              # all but . and ..
+alias ls='ls --color'
 alias lsa='ls -A --color'
 # alias l='ls -CF'                              #
 alias lsl='ls -l -A --color'
+#alias clr='clear'		 # this is equivalent to alias cls='^L'
+alias clr=''
 
 
 # Umask

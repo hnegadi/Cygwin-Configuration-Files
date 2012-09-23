@@ -1,0 +1,7 @@
+[user]
+	name = jeffskinnerbox
+	email = jeff.irland@verizon.net
+[core]
+	editor = vim
+[merge]
+	tool = vimdiff

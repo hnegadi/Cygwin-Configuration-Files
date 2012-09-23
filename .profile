@@ -39,3 +39,5 @@ if [ -n "${BASH_VERSION}" ]; then
 fi
 
 #export DISPLAY=:0.0
+
+
